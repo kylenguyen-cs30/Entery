@@ -10,16 +10,6 @@ from app.dependencies import get_db
 
 router = APIRouter(prefix="/titles", tags=["titles"])
 
-#
-# # Dependency
-# def get_db():
-#     db = SessionLocal()
-#     try:
-#         yield db
-#     finally:
-#         db.close()
-#
-
 
 # NOTE: create a new title
 @router.post("/", response_model=schemas.Title)

@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
-from app.routers import titles, user_collections, tracking, images
+from app.routers import titles, tracking, images
 from app.database.models import Base
 from app.database.connection import engine
 
@@ -13,7 +13,6 @@ app.mount("/images", StaticFiles(directory="app/images"), name="images")
 
 
 app.include_router(titles.router)
-app.include_router(user_collections.router)
 app.include_router(tracking.router)
 app.include_router(images.router)
 

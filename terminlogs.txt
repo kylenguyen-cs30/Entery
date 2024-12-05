@@ -1,0 +1,759 @@
+AllTitlesView appeared
+Number of titles: 0
+Number of tracked titles: 0
+Fetched 0 tracked titles
+Fetched 33 titles
+Fetched 33 titles
+Fetched 0 tracked titles
+Title: Red Dead Redemption 2
+Found finished tracking: false
+Title: Grand Theft Auto V
+Found finished tracking: false
+Title: Baldur’s Gate 3
+Found finished tracking: false
+Title: Persona 5 Royal
+Found finished tracking: false
+Title: Valorant
+Found finished tracking: false
+Title: Genshin Impact
+Found finished tracking: false
+Title: The Godfather
+Found finished tracking: false
+Title: The Dark Knight
+Found finished tracking: false
+Title: Schindler’s List
+Found finished tracking: false
+Title: Forrest Gump
+Found finished tracking: false
+Title: Star Wars Episode V - The Empire Strikes Back
+Found finished tracking: false
+Title: Seven Samurai
+Found finished tracking: false
+Title: Spirited Away
+Found finished tracking: false
+Title: Parasite
+Found finished tracking: false
+Title: Oldboy
+Found finished tracking: false
+Title: King of the Hill
+Found finished tracking: false
+Title: The Office
+Found finished tracking: false
+Title: The Handmaid’s Tale
+Found finished tracking: false
+Title: Breaking Bad
+Found finished tracking: false
+Title: Yellowstone
+Found finished tracking: false
+Title: American Horror Story
+Found finished tracking: false
+Title: Dexter
+Found finished tracking: false
+Title: The Sopranos
+Found finished tracking: false
+Title: 9-1-1
+Found finished tracking: false
+Title: Fourth Wing
+Found finished tracking: false
+Title: Reckless
+Found finished tracking: false
+Title: A Good Girl’s Guide to Murder
+Found finished tracking: false
+Title: The Little Shop of Horrors
+Found finished tracking: false
+Title: Next to Normal
+Found finished tracking: false
+Title: Dracula
+Found finished tracking: false
+Title: To Kill a Mockingbird
+Found finished tracking: false
+Title: In Cold Blood
+Found finished tracking: false
+Title: Verity
+Found finished tracking: false
+TitleRow appeared for Genshin Impact
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Valorant
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Persona 5 Royal
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Baldur’s Gate 3
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Grand Theft Auto V
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Red Dead Redemption 2
+Number of tracked titles: 0
+Tracked titles for this title: 0
+AllTitlesView appeared
+Number of titles: 33
+Number of tracked titles: 0
+TitleRow appeared for Genshin Impact
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Valorant
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Persona 5 Royal
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Baldur’s Gate 3
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Grand Theft Auto V
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Red Dead Redemption 2
+Number of tracked titles: 0
+Tracked titles for this title: 0
+Fetched 0 tracked titles
+Title: Red Dead Redemption 2
+Found finished tracking: false
+Title: Grand Theft Auto V
+Found finished tracking: false
+Title: Baldur’s Gate 3
+Found finished tracking: false
+Title: Persona 5 Royal
+Found finished tracking: false
+Title: Valorant
+Found finished tracking: false
+Title: Genshin Impact
+Found finished tracking: false
+Title: The Godfather
+Found finished tracking: false
+Title: The Dark Knight
+Found finished tracking: false
+Title: Schindler’s List
+Found finished tracking: false
+Title: Forrest Gump
+Found finished tracking: false
+Title: Star Wars Episode V - The Empire Strikes Back
+Found finished tracking: false
+Title: Seven Samurai
+Found finished tracking: false
+Title: Spirited Away
+Found finished tracking: false
+Title: Parasite
+Found finished tracking: false
+Title: Oldboy
+Found finished tracking: false
+Title: King of the Hill
+Found finished tracking: false
+Title: The Office
+Found finished tracking: false
+Title: The Handmaid’s Tale
+Found finished tracking: false
+Title: Breaking Bad
+Found finished tracking: false
+Title: Yellowstone
+Found finished tracking: false
+Title: American Horror Story
+Found finished tracking: false
+Title: Dexter
+Found finished tracking: false
+Title: The Sopranos
+Found finished tracking: false
+Title: 9-1-1
+Found finished tracking: false
+Title: Fourth Wing
+Found finished tracking: false
+Title: Reckless
+Found finished tracking: false
+Title: A Good Girl’s Guide to Murder
+Found finished tracking: false
+Title: The Little Shop of Horrors
+Found finished tracking: false
+Title: Next to Normal
+Found finished tracking: false
+Title: Dracula
+Found finished tracking: false
+Title: To Kill a Mockingbird
+Found finished tracking: false
+Title: In Cold Blood
+Found finished tracking: false
+Title: Verity
+Found finished tracking: false
+AllTitlesView appeared
+Number of titles: 33
+Number of tracked titles: 0
+TitleRow appeared for Genshin Impact
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Valorant
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Persona 5 Royal
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Baldur’s Gate 3
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Grand Theft Auto V
+Number of tracked titles: 0
+Tracked titles for this title: 0
+TitleRow appeared for Red Dead Redemption 2
+Number of tracked titles: 0
+Tracked titles for this title: 0
+Fetched 0 tracked titles
+Title: Red Dead Redemption 2
+Found finished tracking: false
+Title: Grand Theft Auto V
+Found finished tracking: false
+Title: Baldur’s Gate 3
+Found finished tracking: false
+Title: Persona 5 Royal
+Found finished tracking: false
+Title: Valorant
+Found finished tracking: false
+Title: Genshin Impact
+Found finished tracking: false
+Title: The Godfather
+Found finished tracking: false
+Title: The Dark Knight
+Found finished tracking: false
+Title: Schindler’s List
+Found finished tracking: false
+Title: Forrest Gump
+Found finished tracking: false
+Title: Star Wars Episode V - The Empire Strikes Back
+Found finished tracking: false
+Title: Seven Samurai
+Found finished tracking: false
+Title: Spirited Away
+Found finished tracking: false
+Title: Parasite
+Found finished tracking: false
+Title: Oldboy
+Found finished tracking: false
+Title: King of the Hill
+Found finished tracking: false
+Title: The Office
+Found finished tracking: false
+Title: The Handmaid’s Tale
+Found finished tracking: false
+Title: Breaking Bad
+Found finished tracking: false
+Title: Yellowstone
+Found finished tracking: false
+Title: American Horror Story
+Found finished tracking: false
+Title: Dexter
+Found finished tracking: false
+Title: The Sopranos
+Found finished tracking: false
+Title: 9-1-1
+Found finished tracking: false
+Title: Fourth Wing
+Found finished tracking: false
+Title: Reckless
+Found finished tracking: false
+Title: A Good Girl’s Guide to Murder
+Found finished tracking: false
+Title: The Little Shop of Horrors
+Found finished tracking: false
+Title: Next to Normal
+Found finished tracking: false
+Title: Dracula
+Found finished tracking: false
+Title: To Kill a Mockingbird
+Found finished tracking: false
+Title: In Cold Blood
+Found finished tracking: false
+Title: Verity
+Found finished tracking: false
+Response status code: 200
+Response body: {"tracking_id":1,"title_id":1,"date_started":"2024-12-05T00:29:08.519792","date_ended":null,"status":"active"}
+Started tracking title ID: 1
+Title: Red Dead Redemption 2
+Found finished tracking: false
+Title: Grand Theft Auto V
+Found finished tracking: false
+Title: Baldur’s Gate 3
+Found finished tracking: false
+Title: Persona 5 Royal
+Found finished tracking: false
+Title: Valorant
+Found finished tracking: false
+Title: Genshin Impact
+Found finished tracking: false
+Title: The Godfather
+Found finished tracking: false
+Title: The Dark Knight
+Found finished tracking: false
+Title: Schindler’s List
+Found finished tracking: false
+Title: Forrest Gump
+Found finished tracking: false
+Title: Star Wars Episode V - The Empire Strikes Back
+Found finished tracking: false
+Title: Seven Samurai
+Found finished tracking: false
+Title: Spirited Away
+Found finished tracking: false
+Title: Parasite
+Found finished tracking: false
+Title: Oldboy
+Found finished tracking: false
+Title: King of the Hill
+Found finished tracking: false
+Title: The Office
+Found finished tracking: false
+Title: The Handmaid’s Tale
+Found finished tracking: false
+Title: Breaking Bad
+Found finished tracking: false
+Title: Yellowstone
+Found finished tracking: false
+Title: American Horror Story
+Found finished tracking: false
+Title: Dexter
+Found finished tracking: false
+Title: The Sopranos
+Found finished tracking: false
+Title: 9-1-1
+Found finished tracking: false
+Title: Fourth Wing
+Found finished tracking: false
+Title: Reckless
+Found finished tracking: false
+Title: A Good Girl’s Guide to Murder
+Found finished tracking: false
+Title: The Little Shop of Horrors
+Found finished tracking: false
+Title: Next to Normal
+Found finished tracking: false
+Title: Dracula
+Found finished tracking: false
+Title: To Kill a Mockingbird
+Found finished tracking: false
+Title: In Cold Blood
+Found finished tracking: false
+Title: Verity
+Found finished tracking: false
+Fetched 1 tracked titles
+Title ID: 1, Status: active, End Date: nil
+Title: Red Dead Redemption 2
+Found finished tracking: false
+Title: Grand Theft Auto V
+Found finished tracking: false
+Title: Baldur’s Gate 3
+Found finished tracking: false
+Title: Persona 5 Royal
+Found finished tracking: false
+Title: Valorant
+Found finished tracking: false
+Title: Genshin Impact
+Found finished tracking: false
+Title: The Godfather
+Found finished tracking: false
+Title: The Dark Knight
+Found finished tracking: false
+Title: Schindler’s List
+Found finished tracking: false
+Title: Forrest Gump
+Found finished tracking: false
+Title: Star Wars Episode V - The Empire Strikes Back
+Found finished tracking: false
+Title: Seven Samurai
+Found finished tracking: false
+Title: Spirited Away
+Found finished tracking: false
+Title: Parasite
+Found finished tracking: false
+Title: Oldboy
+Found finished tracking: false
+Title: King of the Hill
+Found finished tracking: false
+Title: The Office
+Found finished tracking: false
+Title: The Handmaid’s Tale
+Found finished tracking: false
+Title: Breaking Bad
+Found finished tracking: false
+Title: Yellowstone
+Found finished tracking: false
+Title: American Horror Story
+Found finished tracking: false
+Title: Dexter
+Found finished tracking: false
+Title: The Sopranos
+Found finished tracking: false
+Title: 9-1-1
+Found finished tracking: false
+Title: Fourth Wing
+Found finished tracking: false
+Title: Reckless
+Found finished tracking: false
+Title: A Good Girl’s Guide to Murder
+Found finished tracking: false
+Title: The Little Shop of Horrors
+Found finished tracking: false
+Title: Next to Normal
+Found finished tracking: false
+Title: Dracula
+Found finished tracking: false
+Title: To Kill a Mockingbird
+Found finished tracking: false
+Title: In Cold Blood
+Found finished tracking: false
+Title: Verity
+Found finished tracking: false
+Marking as finished
+Updating status to: finished
+Updating status for tracking ID: 1 to finished
+Updated tracking status locally
+Title: Red Dead Redemption 2
+Found finished tracking: true
+Status: finished
+End date: 2024-12-05T00:29:16.745563
+Getting completion status for tracked title ID: 1
+Status: finished
+End date: Optional("2024-12-05T00:29:16.745563")
+Calculating days since: 2024-12-05T00:29:16.745563
+Failed to parse date for days calculation: 2024-12-05T00:29:16.745563
+Failed to generate completion status
+Title: Grand Theft Auto V
+Found finished tracking: false
+Title: Baldur’s Gate 3
+Found finished tracking: false
+Title: Persona 5 Royal
+Found finished tracking: false
+Title: Valorant
+Found finished tracking: false
+Title: Genshin Impact
+Found finished tracking: false
+Title: The Godfather
+Found finished tracking: false
+Title: The Dark Knight
+Found finished tracking: false
+Title: Schindler’s List
+Found finished tracking: false
+Title: Forrest Gump
+Found finished tracking: false
+Title: Star Wars Episode V - The Empire Strikes Back
+Found finished tracking: false
+Title: Seven Samurai
+Found finished tracking: false
+Title: Spirited Away
+Found finished tracking: false
+Title: Parasite
+Found finished tracking: false
+Title: Oldboy
+Found finished tracking: false
+Title: King of the Hill
+Found finished tracking: false
+Title: The Office
+Found finished tracking: false
+Title: The Handmaid’s Tale
+Found finished tracking: false
+Title: Breaking Bad
+Found finished tracking: false
+Title: Yellowstone
+Found finished tracking: false
+Title: American Horror Story
+Found finished tracking: false
+Title: Dexter
+Found finished tracking: false
+Title: The Sopranos
+Found finished tracking: false
+Title: 9-1-1
+Found finished tracking: false
+Title: Fourth Wing
+Found finished tracking: false
+Title: Reckless
+Found finished tracking: false
+Title: A Good Girl’s Guide to Murder
+Found finished tracking: false
+Title: The Little Shop of Horrors
+Found finished tracking: false
+Title: Next to Normal
+Found finished tracking: false
+Title: Dracula
+Found finished tracking: false
+Title: To Kill a Mockingbird
+Found finished tracking: false
+Title: In Cold Blood
+Found finished tracking: false
+Title: Verity
+Found finished tracking: false
+Fetched 1 tracked titles
+Title ID: 1, Status: finished, End Date: Optional("2024-12-05T00:29:16.745563")
+Title: Red Dead Redemption 2
+Found finished tracking: true
+Status: finished
+End date: 2024-12-05T00:29:16.745563
+Getting completion status for tracked title ID: 1
+Status: finished
+End date: Optional("2024-12-05T00:29:16.745563")
+Calculating days since: 2024-12-05T00:29:16.745563
+Failed to parse date for days calculation: 2024-12-05T00:29:16.745563
+Failed to generate completion status
+Title: Grand Theft Auto V
+Found finished tracking: false
+Title: Baldur’s Gate 3
+Found finished tracking: false
+Title: Persona 5 Royal
+Found finished tracking: false
+Title: Valorant
+Found finished tracking: false
+Title: Genshin Impact
+Found finished tracking: false
+Title: The Godfather
+Found finished tracking: false
+Title: The Dark Knight
+Found finished tracking: false
+Title: Schindler’s List
+Found finished tracking: false
+Title: Forrest Gump
+Found finished tracking: false
+Title: Star Wars Episode V - The Empire Strikes Back
+Found finished tracking: false
+Title: Seven Samurai
+Found finished tracking: false
+Title: Spirited Away
+Found finished tracking: false
+Title: Parasite
+Found finished tracking: false
+Title: Oldboy
+Found finished tracking: false
+Title: King of the Hill
+Found finished tracking: false
+Title: The Office
+Found finished tracking: false
+Title: The Handmaid’s Tale
+Found finished tracking: false
+Title: Breaking Bad
+Found finished tracking: false
+Title: Yellowstone
+Found finished tracking: false
+Title: American Horror Story
+Found finished tracking: false
+Title: Dexter
+Found finished tracking: false
+Title: The Sopranos
+Found finished tracking: false
+Title: 9-1-1
+Found finished tracking: false
+Title: Fourth Wing
+Found finished tracking: false
+Title: Reckless
+Found finished tracking: false
+Title: A Good Girl’s Guide to Murder
+Found finished tracking: false
+Title: The Little Shop of Horrors
+Found finished tracking: false
+Title: Next to Normal
+Found finished tracking: false
+Title: Dracula
+Found finished tracking: false
+Title: To Kill a Mockingbird
+Found finished tracking: false
+Title: In Cold Blood
+Found finished tracking: false
+Title: Verity
+Found finished tracking: false
+Fetched 1 tracked titles
+Title ID: 1, Status: finished, End Date: Optional("2024-12-05T00:29:16.745563")
+Title: Red Dead Redemption 2
+Found finished tracking: true
+Status: finished
+End date: 2024-12-05T00:29:16.745563
+Getting completion status for tracked title ID: 1
+Status: finished
+End date: Optional("2024-12-05T00:29:16.745563")
+Calculating days since: 2024-12-05T00:29:16.745563
+Failed to parse date for days calculation: 2024-12-05T00:29:16.745563
+Failed to generate completion status
+Title: Grand Theft Auto V
+Found finished tracking: false
+Title: Baldur’s Gate 3
+Found finished tracking: false
+Title: Persona 5 Royal
+Found finished tracking: false
+Title: Valorant
+Found finished tracking: false
+Title: Genshin Impact
+Found finished tracking: false
+Title: The Godfather
+Found finished tracking: false
+Title: The Dark Knight
+Found finished tracking: false
+Title: Schindler’s List
+Found finished tracking: false
+Title: Forrest Gump
+Found finished tracking: false
+Title: Star Wars Episode V - The Empire Strikes Back
+Found finished tracking: false
+Title: Seven Samurai
+Found finished tracking: false
+Title: Spirited Away
+Found finished tracking: false
+Title: Parasite
+Found finished tracking: false
+Title: Oldboy
+Found finished tracking: false
+Title: King of the Hill
+Found finished tracking: false
+Title: The Office
+Found finished tracking: false
+Title: The Handmaid’s Tale
+Found finished tracking: false
+Title: Breaking Bad
+Found finished tracking: false
+Title: Yellowstone
+Found finished tracking: false
+Title: American Horror Story
+Found finished tracking: false
+Title: Dexter
+Found finished tracking: false
+Title: The Sopranos
+Found finished tracking: false
+Title: 9-1-1
+Found finished tracking: false
+Title: Fourth Wing
+Found finished tracking: false
+Title: Reckless
+Found finished tracking: false
+Title: A Good Girl’s Guide to Murder
+Found finished tracking: false
+Title: The Little Shop of Horrors
+Found finished tracking: false
+Title: Next to Normal
+Found finished tracking: false
+Title: Dracula
+Found finished tracking: false
+Title: To Kill a Mockingbird
+Found finished tracking: false
+Title: In Cold Blood
+Found finished tracking: false
+Title: Verity
+Found finished tracking: false
+AllTitlesView appeared
+Number of titles: 33
+Number of tracked titles: 1
+TitleRow appeared for Genshin Impact
+Number of tracked titles: 1
+Tracked titles for this title: 0
+TitleRow appeared for Valorant
+Number of tracked titles: 1
+Tracked titles for this title: 0
+TitleRow appeared for Persona 5 Royal
+Number of tracked titles: 1
+Tracked titles for this title: 0
+TitleRow appeared for Baldur’s Gate 3
+Number of tracked titles: 1
+Tracked titles for this title: 0
+TitleRow appeared for Grand Theft Auto V
+Number of tracked titles: 1
+Tracked titles for this title: 0
+TitleRow appeared for Red Dead Redemption 2
+Number of tracked titles: 1
+Tracked titles for this title: 1
+Displaying completion status for Red Dead Redemption 2
+Fetched 1 tracked titles
+Title ID: 1, Status: finished, End Date: Optional("2024-12-05T00:29:16.745563")
+Title: Red Dead Redemption 2
+Found finished tracking: true
+Status: finished
+End date: 2024-12-05T00:29:16.745563
+Getting completion status for tracked title ID: 1
+Status: finished
+End date: Optional("2024-12-05T00:29:16.745563")
+Calculating days since: 2024-12-05T00:29:16.745563
+Failed to parse date for days calculation: 2024-12-05T00:29:16.745563
+Failed to generate completion status
+Title: Grand Theft Auto V
+Found finished tracking: false
+Title: Baldur’s Gate 3
+Found finished tracking: false
+Title: Persona 5 Royal
+Found finished tracking: false
+Title: Valorant
+Found finished tracking: false
+Title: Genshin Impact
+Found finished tracking: false
+Title: The Godfather
+Found finished tracking: false
+Title: The Dark Knight
+Found finished tracking: false
+Title: Schindler’s List
+Found finished tracking: false
+Title: Forrest Gump
+Found finished tracking: false
+Title: Star Wars Episode V - The Empire Strikes Back
+Found finished tracking: false
+Title: Seven Samurai
+Found finished tracking: false
+Title: Spirited Away
+Found finished tracking: false
+Title: Parasite
+Found finished tracking: false
+Title: Oldboy
+Found finished tracking: false
+Title: King of the Hill
+Found finished tracking: false
+Title: The Office
+Found finished tracking: false
+Title: The Handmaid’s Tale
+Found finished tracking: false
+Title: Breaking Bad
+Found finished tracking: false
+Title: Yellowstone
+Found finished tracking: false
+Title: American Horror Story
+Found finished tracking: false
+Title: Dexter
+Found finished tracking: false
+Title: The Sopranos
+Found finished tracking: false
+Title: 9-1-1
+Found finished tracking: false
+Title: Fourth Wing
+Found finished tracking: false
+Title: Reckless
+Found finished tracking: false
+Title: A Good Girl’s Guide to Murder
+Found finished tracking: false
+Title: The Little Shop of Horrors
+Found finished tracking: false
+Title: Next to Normal
+Found finished tracking: false
+Title: Dracula
+Found finished tracking: false
+Title: To Kill a Mockingbird
+Found finished tracking: false
+Title: In Cold Blood
+Found finished tracking: false
+Title: Verity
+Found finished tracking: false
+
+
+
+api-1  | INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+api-1  | INFO:     172.18.0.1:57750 - "GET /titles HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:57748 - "GET /tracking HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:57760 - "GET /titles HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:57772 - "GET /tracking HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:57748 - "GET /tracking/ HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:57750 - "GET /titles/ HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:57760 - "GET /titles/ HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:57772 - "GET /tracking/ HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:57750 - "GET /tracking HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:57750 - "GET /tracking/ HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:57750 - "GET /tracking HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:57750 - "GET /tracking/ HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:57750 - "POST /tracking HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:57750 - "POST /tracking/ HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:57750 - "GET /tracking HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:57750 - "GET /tracking/ HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:60372 - "PUT /tracking/1 HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:60372 - "GET /tracking HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:60372 - "GET /tracking/ HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:60372 - "GET /tracking HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:60372 - "GET /tracking/ HTTP/1.1" 200 OK
+api-1  | INFO:     172.18.0.1:60372 - "GET /tracking HTTP/1.1" 307 Temporary Redirect
+api-1  | INFO:     172.18.0.1:60372 - "GET /tracking/ HTTP/1.1" 200 OK
